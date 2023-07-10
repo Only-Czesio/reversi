@@ -1,12 +1,12 @@
 *{
-    background-color: grey;
+    background-color: RGB(50, 50, 50);
     box-sizing: border-box;
 }
 :root {
     --cell-size: 75px;
     --coin-size: 65px;
-    --board-color: RGB(255, 255, 0);
-    --boardlooper: RGB(154, 205, 50);
+    --board-color: RGB(50, 50, 50);
+    --boardlooper: RGB(65, 46, 26);
     --blackCoin: black;
     --whiteCoin: white;
 }
