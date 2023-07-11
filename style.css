@@ -66,3 +66,7 @@ body {
     cursor: pointer;
     background-color: var(--board-color);
 }
+.cell.blackCoin:hover::before,
+.cell.blackCoin:hover::after {
+    background-color: pink;
+}
